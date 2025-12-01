@@ -1,6 +1,6 @@
 # Career Compass
 
-![Diagram](./arch diagram.png)
+![Diagram](./arch_diagram.png)
 
 
 A multi-agent system built with Google Agent Development Kit (ADK) to help students find universities, check eligibility, calculate budgets, and manage applications with Human-in-the-Loop validation.
@@ -47,4 +47,5 @@ career_compass/
 └── tools/
     └── adk_tools.py      # Shared tools
 ```
+
 
