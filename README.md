@@ -48,4 +48,46 @@ career_compass/
     └── adk_tools.py      # Shared tools
 ```
 
+# 🎯 Problem Statement (Pain Points)
+
+Students aspiring to study abroad face a complex, overwhelming, and often expensive decision-making process. Key challenges include:
+
+- Difficulty selecting universities based on entrance exam scores, global rankings, job outcomes, part-time work opportunities, tuition fees, and accommodation options.
+- Confusion around which course aligns best with career goals.
+- High cost associated with studying abroad, including preparation, applications, and paying large sums to career consultants.
+- Lack of a faster, more affordable, and transparent approach to planning international education.
+- Concerns about employability, especially regarding job opportunities after completing a master’s program.
+- Uncertainty about which countries are best suited for specific courses or specializations.
+- Difficulty identifying universities with strong niche or specialized programs (e.g., Gaming, AI, Cybersecurity).
+- Limited clarity on available scholarships and eligibility requirements across countries and courses.
+- Manually sifting through thousands of university websites, course syllabi, and admission criteria is time-consuming, error-prone, and mentally exhausting.
+- Students today face a paralyzing mix of **Academic Choice Overload** and **Global Geopolitical Uncertainty**, making high-stakes master’s decisions feel risky and confusing.
+
+---
+
+# 🚀 Solution Statement — *Career Compass*
+
+Career Compass is designed to simplify and accelerate the entire study-abroad decision journey through an intelligent, human-friendly system.
+
+### 🔍 Key Features
+
+- Asks the user about course preferences, study location, duration, mode of study (offline, online, hybrid), and personal constraints in a natural conversational format.
+- Collects the user’s educational background and work experience to assess eligibility across programs and countries.
+- Provides a list of university options tailored to the user's goals, preferences, and constraints.
+- Generates a complete **budget summary**, including:
+  - Entrance test fees  
+  - Application fees  
+  - Visa fees  
+  - Tuition fees  
+  - Accommodation  
+  - Insurance  
+  - Scholarships and fee-reduction opportunities  
+  - Additional living costs
+- Helps students identify countries and universities where their chosen course is strongest.
+- Saves time, money, and effort by eliminating the need for expensive consultants and manual research.
+
+---
+
+
+
 
