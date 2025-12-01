@@ -88,6 +88,19 @@ Career Compass is designed to simplify and accelerate the entire study-abroad de
 
 ---
 
+## ✅ Next Steps
+
+1. **Replace mock data with real-time data**
+   - Integrate APIs and reliable data sources to fetch up-to-date information on universities, courses, fees, and scholarships.
+
+2. **Improve the Application Manager Agent workflow**
+   - Refine the end-to-end application flow, including shortlisting, tracking deadlines, document checklists, and status updates.
+
+3. **Enhance and refine prompts**
+   - Optimize system and user prompts for better context understanding, more accurate recommendations, and a smoother conversational experience.
+---
+
+
 
 
 
